@@ -1,4 +1,6 @@
-#Running a python code using docker library#
+# README #
+* Running a python script through docker
+
 
 ### Dependencies ###
 
