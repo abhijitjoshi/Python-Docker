@@ -1,0 +1,4 @@
+Django==1.11
+djangorestframework==3.6.3
+docker
+django-cors-headers
